@@ -1,0 +1,5 @@
+com/global/beverage/corporation/exchange/dao/impl/StockDAOImplTest.class
+com/global/beverage/corporation/exchange/AppTest.class
+com/global/beverage/corporation/exchange/service/impl/TradeServiceImplTest.class
+com/global/beverage/corporation/exchange/service/impl/StockServiceImplTest.class
+com/global/beverage/corporation/exchange/dao/impl/TradeDOAImplTest.class
